@@ -1,0 +1,46 @@
+name: 03-la-digue
+description: Paul et Mathilde marchent sur la digue. Mathilde veut partir étudier à Rennes et sait que
+  sa mère ne pourra pas tenir la pension seule. Elle demande à Paul de ne pas lui dire.
+turns:
+- speaker: mathilde
+  text: Tu t'ennuies pas trop, ici?
+  mood: curieuse
+- speaker: paul
+  text: C'est différent à chaque retour.
+  mood: prudent
+- speaker: mathilde
+  text: Tu trouves ça mortel?
+  mood: directe
+- speaker: paul
+  text: Mortel? Non. Juste... autre chose.
+  mood: hésitant
+- speaker: mathilde
+  text: Je pars à Rennes en septembre. Licence.
+  mood: annonçant
+- speaker: paul
+  text: C'est bien. Et ta mère sait?
+  mood: questions
+- speaker: mathilde
+  text: Non. Et tu ne dois rien dire.
+  mood: demandant
+- speaker: paul
+  text: Elle va l'apprendre comment, tu crois?
+  mood: délicat
+- speaker: mathilde
+  text: Je sais pas encore. Mais pas maintenant. Pas avec tout ce qui se passe.
+  mood: pressante
+- speaker: paul
+  text: Avec la pension, tu veux dire?
+  mood: prudent
+- speaker: mathilde
+  text: Maman ne peut pas tenir la pension toute seule.
+  mood: annonçant
+- speaker: paul
+  text: Donc tu veux que je vende ma part, c'est ça?
+  mood: amer
+- speaker: mathilde
+  text: Je veux que tu ne dises rien jusqu'à ce que j'aie quitté la maison.
+  mood: impatiente
+- speaker: paul
+  text: Je ne peux pas te promettre ça.
+  mood: refusant

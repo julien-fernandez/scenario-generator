@@ -1,0 +1,46 @@
+name: 02-l-offre
+description: Mathilde a trouvé la lettre du groupe hôtelier dans le bureau de sa grand-mère et la pose
+  sur la table devant tout le monde. Un client réclame son café.
+turns:
+- speaker: client
+  text: Mademoiselle, mon café, s'il vous plaît?
+  mood: impatient
+- speaker: anne
+  text: Oui, oui, ça vient, monsieur.
+  mood: distracted
+- speaker: paul
+  text: C'est quoi, ça?
+  mood: curious
+- speaker: mathilde
+  text: L'offre de Bâtiment Côtier. Elle était dans le bureau de maman.
+  mood: defiant
+- speaker: anne
+  text: Arrête. Pas maintenant.
+  mood: sharp
+- speaker: client
+  text: Excusez-moi, le café...
+  mood: insistent
+- speaker: paul
+  text: Vous allez voir, c'est un spectacle gratuit ce matin, monsieur.
+  mood: wry
+- speaker: mathilde
+  text: Pourquoi on la cache? C'est à nous, non?
+  mood: confrontational
+- speaker: anne
+  text: Pas ici. Pas devant les clients. Je vais chercher le café.
+  mood: evasive
+- speaker: paul
+  text: Elle l'a même pas ouverte, tu crois?
+  mood: thoughtful
+- speaker: mathilde
+  text: 'Elle l''a ouverte. Regarde: elle a mis des points d''interrogation.'
+  mood: matter-of-fact
+- speaker: paul
+  text: '"Quand?" C''est tout ce qu''elle a écrit?'
+  mood: startled
+- speaker: anne
+  text: Ça suffit. On parle de ça après. Pas maintenant.
+  mood: sharp
+- speaker: mathilde
+  text: Après quoi? Elle est morte, Anne.
+  mood: cutting

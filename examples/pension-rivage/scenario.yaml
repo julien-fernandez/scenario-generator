@@ -1,0 +1,32 @@
+scenes:
+  - id: 01-retour
+    when: vendredi 27 juin, 19 h
+    place: la cuisine de la pension
+    tension: 2
+    turns: 12
+    present: [anne, paul]
+    stakes: |
+      Paul arrive de Paris pour la première fois depuis l'enterrement. Anne prépare
+      le dîner des clients. Chacun évite de parler de l'offre de rachat.
+  - id: 02-l-offre
+    when: samedi 28 juin, 8 h
+    place: la salle à manger, pendant le petit déjeuner des clients
+    tension: 3
+    turns: 14
+    present: [anne, paul, mathilde, client]
+    stakes: |
+      Mathilde a trouvé la lettre du groupe hôtelier dans le bureau de sa grand-mère
+      et la pose sur la table devant tout le monde. Un client réclame son café.
+  - id: 03-la-digue
+    when: samedi 28 juin, 22 h
+    place: la digue, devant la pension
+    tension: 4
+    turns: 14
+    present: [paul, mathilde]
+    absent: [anne]
+    stakes: |
+      Paul et Mathilde marchent sur la digue. Mathilde veut partir étudier à Rennes
+      et sait que sa mère ne pourra pas tenir la pension seule. Elle demande à Paul
+      de ne pas lui dire.
+    notes: |
+      La scène finit sans que Paul ait promis quoi que ce soit.

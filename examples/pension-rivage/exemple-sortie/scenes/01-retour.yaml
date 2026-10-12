@@ -1,0 +1,40 @@
+name: 01-retour
+description: Paul arrive de Paris pour la première fois depuis l'enterrement. Anne prépare le dîner des
+  clients. Chacun évite de parler de l'offre de rachat.
+turns:
+- speaker: paul
+  text: Ça sent bon. Moules, c'est ça ?
+  mood: light, testing
+- speaker: anne
+  text: Ouais. Six clients, faut que ça bouge. Reste pas dans la cuisine, tu m'encombres.
+  mood: busy, sharp
+- speaker: paul
+  text: Six ? C'est pas beaucoup pour la fin juin, ça.
+  mood: observant
+- speaker: anne
+  text: Ça va remplir. Et puis je regarde pas trop, franchement.
+  mood: dismissive
+- speaker: paul
+  text: Je peux faire quelque chose ? Éplucher, couper ?
+  mood: wanting to help
+- speaker: anne
+  text: Le vin. En bas du frigo, le muscadet. Laisse le reste.
+  mood: practical, closed
+- speaker: paul
+  text: C'est bizarre de revenir ici. Ça m'a plus marqué que je pensais.
+  mood: vulnerable
+- speaker: anne
+  text: Mathilde aide sa copine pour les contrôles. Revient demain.
+  mood: factual, deflecting
+- speaker: paul
+  text: Elle a eu son bac au moins ?
+  mood: redirected concern
+- speaker: anne
+  text: Mention bien. Ça lui aurait plu, tu sais.
+  mood: quiet sadness
+- speaker: paul
+  text: Philo, c'est elle, et elle le savait.
+  mood: warm, knowing
+- speaker: anne
+  text: Ouais. Bon, maintenant il faut que je bouge. T'as le vin ?
+  mood: anxious, practical

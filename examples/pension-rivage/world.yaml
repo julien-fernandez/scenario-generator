@@ -1,0 +1,13 @@
+title: La pension Rivage
+language: français
+setting: |
+  Une petite pension de famille à Perros-Guirec, en Bretagne, fin juin. Huit chambres,
+  une salle à manger qui donne sur la mer, une cuisine où tout se décide. La mère,
+  Jeanne Le Bihan, qui tenait la pension depuis quarante ans, est morte il y a trois
+  semaines. Ses deux enfants doivent décider : garder la pension ou la vendre à un
+  groupe hôtelier qui a fait une offre.
+rules:
+  - Les personnages parlent un français courant, avec quelques tournures bretonnes chez Anne.
+  - Personne ne prononce le mot « deuil ».
+extra_speakers:
+  - client

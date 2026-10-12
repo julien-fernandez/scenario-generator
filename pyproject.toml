@@ -1,0 +1,19 @@
+[project]
+name = "scenario-generator"
+version = "0.1.0"
+description = "Génère les dialogues d'un scénario, scène par scène, avec Claude"
+readme = "README.md"
+license = "MIT"
+authors = [{ name = "Julien Fernandez" }]
+requires-python = ">=3.10"
+dependencies = ["pyyaml>=6.0"]
+
+[project.scripts]
+scenario-generator = "scenario_generator.cli:main"
+
+[dependency-groups]
+dev = ["pytest>=8"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
